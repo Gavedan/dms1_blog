@@ -6,18 +6,18 @@ disable_html_sanitization: true
 allow_math: true
 ---
 
-# This is h1
+# SCAVANGER HUNT
+## An Exploding Coffee 
 ![image one](photo1.JPG)
-![a drippy lemon](logo.svg)
 
-^ images are written like this: `![description](file_path/file_name.png)`
 
-## This is h2
+This is something that we thought somewhat resemble an exploding coffee. Although we didn't quite get the right object, we still had a good laugh about the coffee machine that we took a picture with.
 
-*This is italic.*[^1]
+## A Study Fit for A Sith Lord
+![image two](photo2.JPG)
 
-[^1]: This is a footnote, *which can also be italic*.
 
+We found this object because one of us had been there, so it was sort of easy to figure out when he saw it on the checklist.
 **This is bold.**
 
 Hyperlinks can be written like this: `[text](https://URL)`
