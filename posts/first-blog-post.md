@@ -1,6 +1,6 @@
 ---
 title: Gavin's Blog Post
-published_at: 2022-11-04
+published_at: 2024-07-24
 snippet: An example of a blog post.
 disable_html_sanitization: true
 allow_math: true
@@ -18,23 +18,21 @@ This is something that we thought somewhat resemble an exploding coffee. Althoug
 
 
 We found this object because one of us had been there, so it was sort of easy to figure out when he saw it on the checklist.
-**This is bold.**
 
-Hyperlinks can be written like this: `[text](https://URL)`
+## A Wide Net Strung Above, Bulging Under The Weight of Its Flying Paper Cargo
+![image three](photo3.JPG)
 
-You can find a markdown cheat-sheet [here](https://www.markdownguide.org/cheat-sheet/).
+We found this thing by coincidence, we were going down the escalator and i spotted something by the window. It looked like it matched the description so we took a picture with it, we're pretty sure it's right.
 
-## Maths:
 
-... which can be written inline, like this: $\{ x, y, z \} \in \N$
+## A Book Containing Digital Media Wisdom, Found Amongst Many
+![image four](photo4.JPG)
 
-... or block, like this:
+We didn't have enough time to find the book so we rushed to the library and found something resembling digital media. A
 
-$$ x^2 + y^2 = z^2 $$
 
-Visit [ $\KaTeX$ ](https://katex.org/docs/supported#fractions-and-binomials) for more information about writing maths.
 
-## Embedding video:
+
 
 <iframe id="coding_train_video" src="https://www.youtube.com/embed/rI_y2GAlQFM?si=RDgjkpunxk1mQzMI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
