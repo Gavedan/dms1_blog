@@ -64,7 +64,7 @@ Sadly, we didn't have enough time to find this object.
 
 
 ## MY SELFIE
-![image 10](foto_bareng_artis.jpg)
+![image 10](photo12.jpg)
 
 ## MY 30 SECOND VIDEO
 
