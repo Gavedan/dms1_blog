@@ -34,80 +34,32 @@ We didn't have enough time to find the book so we rushed to the library and foun
 ## A door for the condemned
 ![image five](photo10.JPG)
 
+We asked around the campus to see if anyone knew something similar to the description. That's when one of us remembered, that there is a building that's based around a prison. So we headed straight there and took a picture with something resembling a jail cell.
+
 
 
 ## A curtain of roots, delivered by a winged visitor
 ![image six](photo8.JPG)
 
+We were out of ideas at this point, we were short on time too. We were running out of Building 6 and that's when we stumbled upon a wall covered in roots by coincidence.
 
 ## The disembodied hands of a great ape
 ![image seven](photo5.JPG)
 
+We were looking around Bowen Street and that's when we found a huge pair of hands belonging to a great ape. That totally fits the description, so we took a picture straight away.
 
 ## A basement-dwelling Black Box, bigger than you might think
 ![image eight](photo11.JPG)
 
+After finding the star wars room, we were figuring out what does the black box mean. We instantly started to think about a building that has a basement in it. The only building that has a basement is building 6, so we went straight there and took a picture in front of the recording studio.
+
 ## A wide machine, dispensing beverages from a far away land.
 ![image nine](photo6.JPG)
 
+This is the first thing that we took off the checklist. Because it is pretty self explanatory what it was.
+
 ## A golden globe atop a tower of eights.
 
-<iframe id="coding_train_video" src="https://www.youtube.com/embed/rI_y2GAlQFM?si=RDgjkpunxk1mQzMI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<script type="module">
-
-    console.log (`hello world! 🚀`)
-
-    const iframe  = document.getElementById (`coding_train_video`)
-    iframe.width  = iframe.parentNode.scrollWidth
-    iframe.height = iframe.width * 9 / 16
-
-</script>
-
-## Embedding p5 sketches:
-
-<iframe id="falling_falling" src="https://editor.p5js.org/capogreco/full/Fkg05m7aA"></iframe>
-
-<script type="module">
-
-    const iframe  = document.getElementById (`falling_falling`)
-    iframe.width  = iframe.parentNode.scrollWidth
-    iframe.height = iframe.width * 9 / 16 + 42
-
-</script>
-
-## Canvas API
-
-<canvas id="canvas_example"></canvas>
-
-<script type="module">
-    const cnv = document.getElementById (`canvas_example`)
-    cnv.width = cnv.parentNode.scrollWidth
-    cnv.height = cnv.width * 9 / 16
-
-    const ctx = cnv.getContext (`2d`)
-    const pos = {
-        x: -100,
-        y: cnv.height / 2 - 50
-    }
-    
-    function draw_frame () {
-        ctx.fillStyle = `turquoise`
-        ctx.fillRect (0, 0, cnv.width, cnv.height)
-
-        ctx.fillStyle = `hotpink`
-        ctx.fillRect (pos.x, pos.y, 100, 100)
-
-        pos.x += 2
-
-        if (pos.x > cnv.width) {
-            pos.x = -100
-        }
-
-        requestAnimationFrame (draw_frame)
-    }
-
-    draw_frame ()
-</script>
+Sadly, we didn't have enough time to find this objec.
 
 
