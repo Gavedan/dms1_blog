@@ -60,6 +60,6 @@ This is the first thing that we took off the checklist. Because it is pretty sel
 
 ## A golden globe atop a tower of eights.
 
-Sadly, we didn't have enough time to find this objec.
+Sadly, we didn't have enough time to find this object.
 
 
