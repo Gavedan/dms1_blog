@@ -62,7 +62,7 @@ This is the first thing that we took off the checklist. Because it is pretty sel
 
 Sadly, we didn't have enough time to find this object.
 
-<iframe id="coding_train_video" src="https://youtu.be/ljH1jYxxTF0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ljH1jYxxTF0?si=klUAlPPXI14_aSAj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <script type="module">
 
