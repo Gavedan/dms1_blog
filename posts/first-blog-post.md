@@ -28,11 +28,29 @@ We found this thing by coincidence, we were going down the escalator and i spott
 ## A Book Containing Digital Media Wisdom, Found Amongst Many
 ![image four](photo4.JPG)
 
-We didn't have enough time to find the book so we rushed to the library and found something resembling digital media. A
+We didn't have enough time to find the book so we rushed to the library and found something resembling digital media. Although we didn't quite get it right, we at least still tried to get the book while having five minutes left
+
+
+## A door for the condemned
+![image five](photo10.JPG)
 
 
 
+## A curtain of roots, delivered by a winged visitor
+![image six](photo8.JPG)
 
+
+## The disembodied hands of a great ape
+![image seven](photo5.JPG)
+
+
+## A basement-dwelling Black Box, bigger than you might think
+![image eight](photo11.JPG)
+
+## A wide machine, dispensing beverages from a far away land.
+![image nine](photo6.JPG)
+
+## A golden globe atop a tower of eights.
 
 <iframe id="coding_train_video" src="https://www.youtube.com/embed/rI_y2GAlQFM?si=RDgjkpunxk1mQzMI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
