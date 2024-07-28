@@ -66,6 +66,10 @@ Sadly, we didn't have enough time to find this object.
 ## MY SELFIE
 ![image 10](photo12.jpg)
 
+## MY 30 SECOND EXPERIMENT VIDEO
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uyZU71aOYIc?si=DOBlu9lPRMt8uJnA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## MY 30 SECOND VIDEO
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ljH1jYxxTF0?si=klUAlPPXI14_aSAj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -77,8 +81,9 @@ Sadly, we didn't have enough time to find this object.
     const iframe  = document.getElementById (`coding_train_video`)
     iframe.width  = iframe.parentNode.scrollWidth
     iframe.height = iframe.width * 9 / 16
-   
-  
+
+
+
 
 
 
