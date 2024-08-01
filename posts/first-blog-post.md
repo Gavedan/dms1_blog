@@ -82,8 +82,14 @@ Sadly, we didn't have enough time to find this object.
     iframe.width  = iframe.parentNode.scrollWidth
     iframe.height = iframe.width * 9 / 16
 
+## MY MOVIE CLIP STORYBOARD
+
+![storyboard 1](S1.JPG)
+![storyboard 2](S2.JPG)
 
 
+## MY STORYBOARD
 
-
+![storyboard 3](S3.JPG)
+![storyboard 4](S4.JPG)
 
