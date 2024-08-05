@@ -101,6 +101,10 @@ I'm going to support the emotional tone of the video by using diegetic sounds fr
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ljH1jYxxTF0?si=klUAlPPXI14_aSAj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+## MY AUDIO EDITING EXPERIMENT 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rYSl7rQ4950?si=bwVs2J1TmkJ-pG_g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 <script type="module">
 
     console.log (`hello world! 🚀`)
@@ -108,5 +112,4 @@ I'm going to support the emotional tone of the video by using diegetic sounds fr
     const iframe  = document.getElementById (`coding_train_video`)
     iframe.width  = iframe.parentNode.scrollWidth
     iframe.height = iframe.width * 9 / 16
-
 
