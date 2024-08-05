@@ -1,7 +1,7 @@
 ---
-title: Gavin's Blog Post
+title: EXITING FIRST DAY
 published_at: 2024-07-24
-snippet: An example of a blog post.
+snippet: Scavanger Hunt !!!
 disable_html_sanitization: true
 allow_math: true
 ---

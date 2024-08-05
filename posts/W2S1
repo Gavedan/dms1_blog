@@ -1,0 +1,11 @@
+---
+title: EXPERIMENT VIDEO
+published_at: 2024-07-29
+snippet: Edited 30s video
+disable_html_sanitization: true
+allow_math: true
+---
+
+## MY 30 SECOND EXPERIMENT VIDEO
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZKolCTqiF6A?si=gZuSPNh_VV9Ddmpx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
