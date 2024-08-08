@@ -44,3 +44,11 @@ function PostCard(props: { post: Post }) {
 }
 
 
+<div class="flex flex-wrap justify-center mb-4">
+  <!-- Loop through the posts and render a button for each one -->
+  {% for post in site.posts limit: 6 %}
+    <button class="bg-orange-500 hover:bg-orange-700 text-white font-bold py-2 px-4 rounded-full mr-2 mb-2">
+      {{ post.title }}
+    </button>
+  {% endfor %}
+</div>
